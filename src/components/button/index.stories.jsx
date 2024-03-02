@@ -24,7 +24,6 @@ export const Brutalism = Template.bind({});
 Starter.args = {
   disabled: true,
   textColor: 'black',
-
   children: 'Click me',
 };
 

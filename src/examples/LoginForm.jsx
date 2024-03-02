@@ -19,8 +19,9 @@ const LoginForm = () => {
           Forgot password?
         </Text>
         <ButtonShadow disabled={true} children={'Login'} className={'flex w-full justify-center text-center items-center mb-4'} />
-
-        <Divider color={'black/90'}>OR</Divider>
+        <div className="w-full flex gap-2 items-center">
+          <Divider variant={'default'}>OR</Divider>
+        </div>
 
         <div className="flex justify-between py-4 w-full px-10">
           <ButtonShadow2 disabled={true} className="px-8 flex justify-center items-center">
@@ -32,7 +33,7 @@ const LoginForm = () => {
         </div>
 
         <Text size={'sm'} weight={'bold'} align={'center'}>
-          Not have account yet? <span className="text-white">Sign Up</span>
+          Not have account yet? <span className="text-[#64C4ED]">Sign Up</span>
         </Text>
       </div>
     </section>

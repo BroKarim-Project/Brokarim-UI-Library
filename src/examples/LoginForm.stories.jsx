@@ -6,8 +6,6 @@ export default {
   parameters: {
     layout: 'centered',
   },
-
-  tags: ['autodocs'],
 };
 
 const Template = (arguments_) => <LoginForm {...arguments_} />;
