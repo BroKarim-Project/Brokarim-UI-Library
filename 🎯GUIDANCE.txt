@@ -1,0 +1,46 @@
+
+Resource : 
+- style storybook using tailiwnd
+- https://blog.logrocket.com/building-next-js-app-tailwind-storybook/
+
+- Klo g bisa pake tailwind bisa pake style
+https://dev.to/estheragbaje/learn-to-use-storybookjs-in-your-react-project-4nf2
+
+- Tulisa berkaitan dengan storybook
+https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o
+
+
+
+Overall dh hampir siap
+- Perbaiki container
+- Rapikan code termasuk penamaanya
+
+terakhir
+- Buat Card jadi grid gitu
+- klo home payah miker navbar lagi
+
+
+🎯YANG AWAK PINGIN
+- Button
+- Navbar
+- Home => ambek punya tcc
+- Login => 
+- 
+
+===========================================
+
+-- Hey there! welcome back, in this post i want to shre the next thing i learn and creta  which is a UI Library using react, tailiwnd css and storybokk
+
+By the way the reason I mentioned 'learn and create' is because the result i want for this weekly projecv is to get new knowledege in software dev, hope this will help me and  you too in real world
+
+Let's dive into the project, Storybook is a free open-source projec thats allow you documenting your components, so we can reuse and automatically run visual tests to catch any bugs early on.
+
+In other words, Storybook is a development environment tool that displays the UI components.
+
+As you can see I've already create several compoennet such ase input, text, button and more of course the style menyesuaikan dengan projek yang saya butuhkan.
+
+But that's not all. I've taken it a step further by creating two practical examples: a login form and a collection of cards, demonstrating how various components can seamlessly come together.
+
+To provide you with more insights, I've included some source information and, of course, the source code in my caption. And with that, I'd like to thank you for watching.
+
+Your support means the world to me.
