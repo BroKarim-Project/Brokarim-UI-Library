@@ -1,8 +1,14 @@
-# React + Vite
+<h1 align="center">Create UI Library Using Storybook</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshot
+<img width="720" alt="ui-3" src="https://github.com/BroKarim-Project/BrokarimUiLibrary/assets/146515339/f950b2c1-a8c2-4f6c-97ea-e78c1b906748">
 
-Currently, two official plugins are available:
+## Development Setup
+Clone the repository and run the following commands:
+```
+npm install
+npm run storybook
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Made with 💓 By BroKarim
+
