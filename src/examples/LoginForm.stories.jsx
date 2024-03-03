@@ -6,7 +6,7 @@ export default {
   parameters: {
     layout: 'centered',
   },
-};
+ig};
 
 const Template = (arguments_) => <LoginForm {...arguments_} />;
 
